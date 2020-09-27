@@ -12,4 +12,4 @@ spring:
     joda-date-time-format: yyyy-MM-dd
     time-zone: GMT+8
 config:
-  info: from config-test.yml,master
+  info: from config-dev.yml,master
